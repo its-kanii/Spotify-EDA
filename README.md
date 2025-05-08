@@ -1,6 +1,6 @@
 # 🎧 Spotify Tracks EDA Project
 
-This project is part of my **100 Days of Data Science** learning journey. On **Day 2**, I explored the Spotify Tracks Dataset using Python and performed **Exploratory Data Analysis (EDA)** to uncover patterns in music data like tempo, popularity, release trends, and more.
+This project is part of my **Data Science** Project learning journey. On **Day 2**, I explored the Spotify Tracks Dataset using Python and performed **Exploratory Data Analysis (EDA)** to uncover patterns in music data like tempo, popularity, release trends, and more.
 
 ## 📌 Objective
 
@@ -65,8 +65,8 @@ To explore patterns in Spotify music tracks using EDA techniques and visualize k
 
 ## 📎 Links
 
-- 📘 **Blog Post**: [Coming soon]
-- 💻 **GitHub Notebook**: [Coming soon]
+- 📘 **Blog Post**:[Medium](https://medium.com/@kanimozhi19/spotify-eda-when-a-simple-plot-turned-into-a-learning-marathon-64cfd0006d4e)
+- 💻 **GitHub Notebook**:[Spotify](https://github.com/its-kanii/Spotify-EDA)
 
 ## 📅 Part of My Series
 
